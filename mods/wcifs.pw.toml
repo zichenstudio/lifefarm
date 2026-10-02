@@ -1,0 +1,13 @@
+name = "Bedtime / WCIFS"
+filename = "wcifs-1.3.1+1.19.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LymwTWwC/versions/UkM5i82o/wcifs-1.3.1%2B1.19.2-fabric.jar"
+hash-format = "sha512"
+hash = "a2ebe7a7da5d6e677ab5ad2b97c3f4c2d2cef50e7b67c7435e1c7a03779713c9159e170d966dcd58b953fe2e63ae4fe8951c082c31f41fe029842b9b779c2b24"
+
+[update]
+[update.modrinth]
+mod-id = "LymwTWwC"
+version = "UkM5i82o"

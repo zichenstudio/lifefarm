@@ -1,0 +1,32 @@
+{
+  "custom": {
+    "iris:iris": "never",
+    "minecraft:3d_crosshair": "inOverlay",
+    "minecraft:biome": "inOverlay",
+    "minecraft:chunk_generation_stats": "never",
+    "minecraft:chunk_render_stats": "never",
+    "minecraft:chunk_source_stats": "never",
+    "minecraft:entity_render_stats": "inOverlay",
+    "minecraft:entity_spawn_counts": "never",
+    "minecraft:fps": "inOverlay",
+    "minecraft:game_version": "inOverlay",
+    "minecraft:gpu_utilization": "inOverlay",
+    "minecraft:heightmap": "never",
+    "minecraft:light_levels": "inOverlay",
+    "minecraft:local_difficulty": "inOverlay",
+    "minecraft:looking_at_block": "never",
+    "minecraft:looking_at_entity": "never",
+    "minecraft:looking_at_fluid": "never",
+    "minecraft:memory": "never",
+    "minecraft:particle_render_stats": "inOverlay",
+    "minecraft:player_position": "inOverlay",
+    "minecraft:player_section_position": "inOverlay",
+    "minecraft:post_effect": "never",
+    "minecraft:simple_performance_impactors": "never",
+    "minecraft:sound_mood": "never",
+    "minecraft:system_specs": "inOverlay",
+    "minecraft:tps": "inOverlay",
+    "sodium:debug_reduced": "never"
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,4 @@
+{
+  "condition": "misc.mc161583",
+  "fallback": "assets/minecraft/models/block/anvil/267895/template_anvil.json"
+}

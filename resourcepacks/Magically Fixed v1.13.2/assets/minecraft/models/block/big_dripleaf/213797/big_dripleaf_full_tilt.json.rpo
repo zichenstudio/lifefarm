@@ -1,0 +1,4 @@
+{
+  "condition": "blocksanditems.mc213797",
+  "fallback": "assets/minecraft/models/block/big_dripleaf/221851/big_dripleaf_full_tilt.json"
+}

@@ -1,0 +1,16 @@
+name = "life farm"
+author = "imoutopia"
+version = "1.0.0+20261003.Release"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a10eb363786d5a950916fef077defdf50c31ec9e6f02905b95bad71b4581ad74"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.11"
+
+[options]
+acceptable-game-versions = ["1.17", "1.21.5"]

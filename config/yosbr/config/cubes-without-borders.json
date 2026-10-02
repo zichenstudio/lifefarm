@@ -1,0 +1,6 @@
+{
+  "borderlessFullscreenType": "windows:windowed",
+  "fullscreenMode": "OFF",
+  "fullscreenType": "minecraft:default",
+  "preferredFullscreenMode": "BORDERLESS"
+}

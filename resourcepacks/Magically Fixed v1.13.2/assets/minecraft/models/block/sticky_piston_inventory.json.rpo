@@ -1,0 +1,4 @@
+{
+  "condition": "qol.sticky_pistons",
+  "fallback": "assets/minecraft/models/disable/sticky_piston_inventory.json"
+}

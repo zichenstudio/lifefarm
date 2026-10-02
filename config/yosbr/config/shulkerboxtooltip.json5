@@ -1,0 +1,6 @@
+{
+"controls": { "previewKey": { "code": "key.keyboard.left.alt" }, "fullPreviewKey": { "code": "key.keyboard.left.shift" } },
+"preview": { "swapModes": true, "alwaysOn": true, "serverIntegration": false, "position": "OUTSIDE" },
+"tooltip": { "showKeyHints": false },
+"server": { "clientIntegration": false, "enderChestSyncType": "NONE" }
+}

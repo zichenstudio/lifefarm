@@ -1,0 +1,4 @@
+{
+  "condition": "!qol.no_ashes & qol.soul_campfires",
+  "fallback": "assets/minecraft/models/block/campfire_off.json"
+}

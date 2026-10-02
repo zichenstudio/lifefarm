@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "particle": "minecraft:block/tripwire",
+    "tripwire": "minecraft:block/tripwire"
+  },
+  "elements": [
+    {
+	  "from":     [ 7.75, 1.5, 7.75 ],
+      "to":       [ 8.25, 1.5, 8.25 ],
+      "faces":    {
+        "down": { "uv": [ 9, 2, 7, 4 ], "texture": "#tripwire", "rotation": 90 },
+        "up":   { "uv": [ 7, 2, 9, 4 ], "texture": "#tripwire", "rotation": 90 }
+      }
+    }
+  ]
+}

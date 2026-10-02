@@ -1,0 +1,4 @@
+{
+  "condition": "blocksanditems.mc182716",
+  "fallback": "assets/minecraft/models/block/fence/fence_inventory.json"
+}

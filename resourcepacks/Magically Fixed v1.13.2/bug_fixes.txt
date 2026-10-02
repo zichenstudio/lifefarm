@@ -1,0 +1,53 @@
+MC-109087 Optimize non-solid blocks
+MC-109478 Inconsistent fence texture mapping
+MC-112679 Iron golem texture fixes
+MC-122701 Inconsistent stretched sunflower texture
+MC-123221 Item frames in partial blocks z-fighting
+MC-128972 Inconsistent hover text for selector arguments
+MC-150572 Cactus bottom texture uses programmer art
+MC-152331 Barrier block icon in spectator hotbar widget uses programmer art
+MC-161583 Anvils in item frames occupying the same block as a torch z-fighting
+MC-165979 Inconsistent highlighted buttons in menus that use programmer art
+MC-168716 Items in spectator widgets, toasts, and stat icons use programmer art
+MC-174561 Inconsistent hoe textures
+MC-181777 Extinguished soul campfires are identical to extinguished normal campfires with no distinction such as soul sand/soil in place of the standard ash
+MC-182716 Inconsistent fence/wall item models
+MC-183697 Inconsistent smithing table gui hammer pixels
+MC-191033 Teleport icons in spectator hotbar widget uses old eye of ender textures
+MC-192420 Iron bar z-fighting
+MC-203095 Inconsistent xp command feedback grammar
+MC-206779 Inconsistent sliding down honey block subtitle capitalization
+MC-213797 Big dripleaf stem goes through main leaf when tilted
+MC-214568 Lectern on fire z-fighting
+MC-217653 Optimize end rods
+MC-219533 Inconsistent wandering trader drinking subtitle capitalization
+MC-219541 Inconsistent armor equipping subtitle capitalization
+MC-221851 Inconsistent tilted dripleaf mirroring
+MC-222208 Inconsistent barrel texture
+MC-224035 Inconsistent small dripleaf model
+MC-226453 Inconsistent potted azalea shading
+MC-229627 Held hanging roots z-fighting
+MC-236490 Eating soup/stew shows particles of the bowl being eaten
+MC-239142 Optimize beacon model
+MC-245800 Slimes use slime ball particles over slime blocks
+MC-254069 Fire z-fighting
+MC-262172 Tripwire hook model offset
+MC-262461 Optimize stair models
+MC-262464 Inconsistent brewing stand blaze rod bottom texture
+MC-262600 Inconsistent tripwire model rotations
+MC-262604 Inconsistent fence item model
+MC-262631 Inconsistent lever cobblestone base side texture mapping
+MC-262641 Optimize chorus flower models
+MC-262676 Inconsistent mangrove propagule shading
+MC-262687 Banners in item frames z-fighting
+MC-262689 Optimize mangrove propagule models
+MC-262696 Inconsistent potted mangrove propagule shading
+MC-262864 Inconsistent lever cobblestone base upside-down mapping
+MC-262953 Optimize fence gate models
+MC-267281 Optimize fence models
+MC-267895 Inconsistent anvil texture mapping
+MC-269971 Inner spawner z-fighting
+MC-270976 Inconsistent firework particle pixel color
+MC-273952 Inconsistent splash potion bottle texture
+MC-274024 Inconsistent double chest texture
+Fixed sticky pistons using the normal piston side texture

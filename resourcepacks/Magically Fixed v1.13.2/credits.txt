@@ -1,0 +1,10 @@
+This pack was primarily created by Firebolt360 with additional features from the credited sources below.
+
+Credits:
+Capitalisation Fixes: https://modrinth.com/resourcepack/capitalisation-fixes
+Connor Steppie (Bug reports): https://bugs.mojang.com/secure/ViewProfile.jspa?name=Awesoman3000
+Fixed Barrel: https://modrinth.com/resourcepack/fixed-barrel
+Model Optimizations & Fixes: https://modrinth.com/resourcepack/model-optimizations-and-fixes
+No Z-Fighting: https://modrinth.com/resourcepack/no-z-fighting
+Optimized Models: https://modrinth.com/resourcepack/optimized-models-lura
+Vanilla Tweaks: https://vanillatweaks.net/

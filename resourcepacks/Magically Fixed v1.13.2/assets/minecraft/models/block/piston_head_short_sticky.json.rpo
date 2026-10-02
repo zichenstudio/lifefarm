@@ -1,0 +1,4 @@
+{
+  "condition": "qol.sticky_pistons",
+  "fallback": "assets/minecraft/models/disable/piston_head_short_sticky.json"
+}

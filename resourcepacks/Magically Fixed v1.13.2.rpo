@@ -1,0 +1,52 @@
+{
+    qol: {
+        barrels: true,
+        clearer_water: false,
+        lower_fire: false,
+        lower_shield: false,
+        no_ashes: false,
+        beehive_nests: false,
+        pumpkin_overlay: false,
+        soul_campfires: true,
+        sticky_pistons: true,
+        emissive_ores: false
+    },
+    blocksanditems: {
+        mc109478: true,
+        mc122701: false,
+        mc150572: true,
+        mc174561: true,
+        mc182716: false,
+        mc192420: true,
+        mc213797: true,
+        mc214568: true,
+        mc221851: true,
+        mc224035: true,
+        mc226453: true,
+        mc229627: true,
+        mc254069: true,
+        mc262172: true,
+        mc262464: true,
+        mc262631: true,
+        mc262600: true,
+        mc262604: true,
+        mc262696: true,
+        mc267895: true,
+        mc273952: false,
+        mc274024: true
+    },
+    misc: {
+        mc112679: true,
+        mc123221: true,
+        mc152331: true,
+        mc161583: true,
+        mc165979: false,
+        mc168716: true,
+        mc183697: true,
+        mc191033: true,
+        mc236490: true,
+        mc245800: true,
+        mc262687: true,
+        mc270976: true
+    }
+}
