@@ -101,6 +101,8 @@
 
 *所有相关信息均来源于[Modrinth](https://modrinth.com/)。*
 
+*本列表绝大部分信息使用[justin-carver/sculkr](https://github.com/justin-carver/sculkr)生成，感谢其作者 Justin Carver 及贡献者。*
+
 ## 许可证
 
 本整合包采用 [BSD 3-Clause](LICENSE) 授权。其中 Elixir 相关的模组搭配、配置文件、材质包及其他由 Elixir 提供的内容，版权归 Elixir 原作者 Firebolt360 所有，遵循其原始 [BSD-3-Clause](LICENSE-Elixir)。
