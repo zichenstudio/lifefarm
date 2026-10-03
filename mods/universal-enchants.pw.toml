@@ -1,0 +1,13 @@
+name = "Universal Enchants"
+filename = "UniversalEnchants-v21.11.2-mc1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DT56YDir/versions/MuPwsQLB/UniversalEnchants-v21.11.2-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "8b3a0f310a7f657ac787824d50e9372b07a55bc184be5efb396af9b9267a842909105b472e403d77cbfb6d3db29609c29292eb5b4e2db49dd1207ce559b7d433"
+
+[update]
+[update.modrinth]
+mod-id = "DT56YDir"
+version = "MuPwsQLB"

@@ -1,0 +1,13 @@
+name = "Spectral"
+filename = "Spectral_v0.7.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vaaOMowT/versions/W3H0nAN6/Spectral_v0.7.1.zip"
+hash-format = "sha512"
+hash = "82c59ab73945666da191dfb6755ef9651b099fc252c5a4247eb4b7abcf6467f990b1bdd8c2076d1f79acbb0e82d19c99283668e91ba5e77b7049b68da3e61e43"
+
+[update]
+[update.modrinth]
+mod-id = "vaaOMowT"
+version = "W3H0nAN6"

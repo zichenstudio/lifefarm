@@ -1,12 +1,12 @@
-name = "life farm"
+name = "lifefarm"
 author = "imoutopia"
-version = "1.0.0+20261003.Release"
+version = "1.0.0+20261004.Release"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a10eb363786d5a950916fef077defdf50c31ec9e6f02905b95bad71b4581ad74"
+hash = "6faff71ee4167a72ef5ac925209155bb12801b300d8b8de4f9de0359b17e9166"
 
 [versions]
 fabric = "0.19.3"

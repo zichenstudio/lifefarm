@@ -1,0 +1,13 @@
+name = "Provi's Health Bars"
+filename = "provihealth-2.4.3+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4wDQsby8/versions/aOpw5KDK/provihealth-2.4.3%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "f9841f57766cdb7229b0cc88210138c8999dc10931d390071ba4d4a431fc26b625dc63f702326b02191c72a1c683704dc59325bf68f1f542e394fb4fc752a78b"
+
+[update]
+[update.modrinth]
+mod-id = "4wDQsby8"
+version = "aOpw5KDK"

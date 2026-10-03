@@ -1,12 +1,151 @@
 hash-format = "sha256"
 
 [[files]]
+file = "1.txt"
+hash = "793c9f3fe48d95371aad7560e7906baea0eb0b3730a0dffb771a4cf12b2139d3"
+
+[[files]]
 file = "LICENSE"
 hash = "cdc2f88acab09239693be1ec57f3347a319becc970b22a1fdf8565b545f6794b"
 
 [[files]]
+file = "LICENSE-Elixir"
+hash = "bef14dbdc1b5f35163befffe97b9883df42f85acdde7f52c7f01638fe852b4b8"
+
+[[files]]
+file = "README.md"
+hash = "32f34052105bb6aa224696963d803097a0c2573e06634868088e3284a0f1c83c"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "654af9689ccfaeb86557e7081ff7f2613fb3ec259c3d59368985fc8f256d03ae"
+
+[[files]]
+file = "config/yosbr/config/BBEConfig.json"
+hash = "e5f2ee57e9f9c0bd81af26c1918ceee988b3d726014c411f439406dc0fe60ef1"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "41fe65a76c4fe630f3ed975668b64080a984241ceec0511cc7ea8ca1f0ede045"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "aa046f7491e1cfc953ed0533f55064558146dfe6224a3b00ff1632b2d4f54ece"
+
+[[files]]
+file = "config/yosbr/config/cubes-without-borders.json"
+hash = "e8703a3c53f4059ef0afb3af75f37d2d6a5508f43d1e82153ae863dd7ad4370f"
+
+[[files]]
+file = "config/yosbr/config/durabilitytooltip-common.toml"
+hash = "0cc7ee28f86cde2d3e5093e012ebfb2718d09d2423de1ac0ac2f3d8ea87a974a"
+
+[[files]]
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "c23328f5eea91431e3073fcd957183245a81abb48d56195125c0390e80ba0a73"
+
+[[files]]
+file = "config/yosbr/config/entity_model_features.json"
+hash = "9e16bc28d767ede12d7cb530a769ab82c387e3ced3e34a454e3387d90a554ebf"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "46d4f7e594919b93be0a90ae7b690b375d1dd9232ceb52de9b68d3fdc7e3df52"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "951d5adc2c9b5760b4dc7deea3b4cb0b55e2d679aa115800b2085ba58f229f21"
+
+[[files]]
+file = "config/yosbr/config/fastquit.toml"
+hash = "97b028d0ebbeb60290764165be2a78e3176603276bd04ab0b007fb5ec314ed7d"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "d16232b7570268b51768ef5410f605117a0be072bf621cccde34d5a5098be566"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "028ee9c4aa9241f76cbb7a0dea651c9014605e4218026477a967e920bbae6780"
+
+[[files]]
+file = "config/yosbr/config/locator-heads.json"
+hash = "5c4c4d30f8e221cab6bb7e48c393c61b0ae45a46e0d4049e69f507cf991ca922"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "0c26dca8fd144b2113baa7b143ef4d8f2b1a888af4ddc84ce1afec1af9229d07"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "077d2b9dcc4ae8d73ffb060649ba42fe2c4a830ef31809e20a1b8101e950ad9d"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "546b26ab73c4d7f89ec036600fb305b29fa4f72e1e181cb2d8f0b4904e560571"
+
+[[files]]
+file = "config/yosbr/config/particle_core_config.toml"
+hash = "7da1f6eda5793f5a3e23bb11e4f58fa06d6a3a874113307e9a40c5df35cfce53"
+
+[[files]]
+file = "config/yosbr/config/rrls.toml"
+hash = "349c4b3159f267b71673d9fd6ad83ec566c9b7a01c2d9937f538603c078ddbd9"
+
+[[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "5e1f182345fd97913c640a925f4efcd4fb03911d0d434f41c7d12681568419a5"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "78b3e026800ea09d6227f21c3fea44437fb06179b735881a72cbe72aa6fe40f8"
+
+[[files]]
+file = "config/yosbr/config/sodium-fingerprint.json"
+hash = "afbf9d0f3560b0fd7795e81c42a0a79ee6b6fc67e064f77826aee642cad28d91"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "1cfe9b86039e89d9345c7cf48cae4ef5dab13d968bcb97c874d3e25e5ab32920"
+
+[[files]]
+file = "config/yosbr/config/tooltiptoggles.json"
+hash = "34d1d98396f2bef0f43e0652c2ca3d1e535f1e0f7f6d1aa4cd18ab1586838857"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "604f6f7a3853c22930599077e24d1abfbbccbe92be5b0aedcdb68fd186efd2fe"
+
+[[files]]
+file = "config/yosbr/debug-profile.json"
+hash = "b55af113d5b8016ab10f2cc320cec7626cfa500a89b18d173e1dd46ed93aac38"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "d7f1b3cbffb64074be61697d09f91dfc2008f3b7f91a51962a554dd86d207aa2"
+
+[[files]]
+file = "mods/agricultureplus.pw.toml"
+hash = "e9f4f3992e4d1bd66a2640a0c75ca5370787f0617b180fef34fbd9a58e7688e5"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "3c4d4c97d1a3cb0c9818a8e95f56f551a6f0dfdc86ac3a9955ffceb47d1fe2fe"
 metafile = true
 
 [[files]]
@@ -25,8 +164,18 @@ hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "ff0fd26818393e15ee5759d3e9f1b74ead487d6271c37abb765dcab695cbddf9"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "5ab81359d4654812c2f4dd40f6db5bb51e217a228827d5cc351a40611f05d7de"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "888e76b56a531d110c4e6a66cf42ac1cb4c05ebb7c78326f069869c52b2d4c5a"
 metafile = true
 
 [[files]]
@@ -40,8 +189,23 @@ hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "d8e2eb843f684b6abe48010c4ebf3e1300bd0fe9a4132e2744757d850171f4b7"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "dc2222f80d2bffd28cecbebecb3b024e6d52ac49375f0407422e5249491a2ac6"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "7973c1b502db606e9fa57397b6dc80056072b2d9b397cbda855b42eea4b95529"
 metafile = true
 
 [[files]]
@@ -80,6 +244,11 @@ hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "cafccce614d8678d92713109d5cf1840fa13176a8d20ff37cbf95b2ee9e7ae31"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "35a7b74529dd255459a037a0b7dfa164b66bc2cd0f886f9b0fc98c345074e1fc"
 metafile = true
@@ -110,6 +279,11 @@ hash = "5c4a7e8a0f80a4e35d1063d86ac17d9e3f414c1187f1cd8c7a405c7873c5db3d"
 metafile = true
 
 [[files]]
+file = "mods/horseman.pw.toml"
+hash = "ba7a4a025e9e3b3d88b5bd12406ac9b20fa56163bc48738cc26f0fd1fd21b219"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9cb9fbb7431ed58a8bb7bf25d1b9fcc8706fc57400db7acffef06e25971552fa"
 metafile = true
@@ -117,6 +291,21 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "7da45ae93b814e4979c6baf99268c1648429ab159a93e08c3c2d003ed69269f4"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "25b05e03c2045708d124bc6fbe4c9dc4c85b09a0367616998617910c893fcd3f"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "9f42c26ae35f760c07dc37cc2d60e44ab176840237cd1c628ff76be179f6d5b1"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "9a338d2e58d605c41550dd77f468c373a6e9967833f2b170a33069653d145535"
 metafile = true
 
 [[files]]
@@ -132,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "bbe909e10769a737282de658c904e59f024380cc3a4294927e1acae7f9d3b018"
 metafile = true
 
 [[files]]
@@ -170,6 +364,11 @@ hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
+metafile = true
+
+[[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "8d810b86eb6d8683fdd3b6c967e6e3b2e093bfb53c0e1dec72baec0644a4ef43"
 metafile = true
@@ -177,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "1c66c4bc344e413a7bfe3fb677982b07c714db0fbcac0c6425c372d51074e965"
 metafile = true
 
 [[files]]
@@ -200,6 +404,21 @@ hash = "5b7f9ab8f33fd270390c10eaee0b88b652747f3b3b5880de604c96ae13d3ff71"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "fe4bed69e7d21789d176b8580b3ef031b579a051ca76a5f56898e6b38fa082db"
+metafile = true
+
+[[files]]
+file = "mods/provis-health-bars.pw.toml"
+hash = "c5934ecf59ef671a2f3b8167d047305134ac4fc1497928c1348dd457ac3d3da7"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "d834a23dade08b30d08e58521d51800d6453e195a6e0af2b2b70b09b8d3199ee"
+metafile = true
+
+[[files]]
 file = "mods/respackopts.pw.toml"
 hash = "f9f3236feca30e84c21e72b434b5f6d1de9ef76e85436ab0fe5bf991aeceae39"
 metafile = true
@@ -207,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "82e70d274662876a9691d741a105c9762266ecac72f663e5c1d8f0e1bf35cc19"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "a17a9c598d984e4ff28d0945dd0e8bf94b3125b1d669226b4ad736543dacef3f"
 metafile = true
 
 [[files]]
@@ -260,13 +484,63 @@ hash = "0db01c3a00fa869d75551efdd90a227b942f6ab8339426b956297072226341d6"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "972a7c4b605eb452c1cd0e20c1c0b5978975f62413b50f0b80fa5b4f80915632"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "a72981ee11a90659112ddd8ef00554df2b51e9c3aabd89a66e8a1a8b94eb5b3a"
+metafile = true
+
+[[files]]
 file = "mods/tooltiptoggles.pw.toml"
 hash = "b50bfc5f8182adb7716adfc0e6b96b3bf3d3eae708ab2df400550fda362ab643"
 metafile = true
 
 [[files]]
+file = "mods/trading-post.pw.toml"
+hash = "7aaa8db445b58512e4b8ea4b1a86000ca1e6f4c8b65354833c0af199a3ff9c24"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "1550aedc52330f566a956212f8784baf76946d2e8398cb4e41988dca48dacd9f"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "06b47344e527c44bef99d1dffc6ef237adf991be80b9660616bd203dab4ff973"
+metafile = true
+
+[[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "b4581f47d3f6e45ef9f85111027b632f295e82899167cc1c12d5d3e264ab0919"
+metafile = true
+
+[[files]]
+file = "mods/village-healthcare.pw.toml"
+hash = "07135b8131197959a04bb45b5d25f4e84ad611931ad713f09f882c9ca0c56fa9"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "88b2211504efdc62eb41ad69abde250bc85da0c66fb6a7ddde874df42afe8fc6"
+metafile = true
+
+[[files]]
 file = "mods/wcifs.pw.toml"
 hash = "ff94a9ecaf7e775b7fcb7e9785b0db87362539dc55305dc11d7629c67eea71c5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "704db7b1a2db7f6713ae16aade245c3b31ba2c38577cb0a8e1cae4994784577b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "b469ff5d0587b0d6e1f77961a67d910383ee8a675472b92c7813d01f29f0830e"
 metafile = true
 
 [[files]]
@@ -282,4 +556,1533 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "0d3405e537262b4afe76df6c9a884d1a7acbf5b6152109f4cc14b76a3551af7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2.rpo"
+hash = "28025d5f6a39af82da38770d2375d066bba585a3cfe2d4a3e72ac5f0c00478fd"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/acacia_fence.json"
+hash = "dc8a583b67de8f3d58f1e4d7897b3dea296f5fa51a0265e38f84e59811cf5300"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/acacia_fence_gate.json"
+hash = "1d378d3796e522dbdf68d217746b82a939313264466796a96a332bdd3746ac86"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/barrel.json"
+hash = "c3120694d2bca861453f24235846c42177b93f4b142576b9772dad23509e7217"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/barrel.json.rpo"
+hash = "de0308c373d0089d3cc5bcfa08a013046c25addb67cf5678eee75a096a3cb47a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/bee_nest.json"
+hash = "2a3f85421a9fdb96ebedcb649c412594197b7819fc8073aa0957447be9c6e367"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/bee_nest.json.rpo"
+hash = "88cae87d7db2e6240e59cde92f9c1595fd9e878a674ac798600563970040c8b2"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/beehive.json"
+hash = "fb1e48f6736468f6948ae0de1afaa0878958d327e55699addeb7a560b20fc253"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/beehive.json.rpo"
+hash = "88cae87d7db2e6240e59cde92f9c1595fd9e878a674ac798600563970040c8b2"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/birch_fence.json"
+hash = "edc6bc865745cda22c54a2b1b9c199921ecc65bccffc0007619206426cc54a9c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/birch_fence_gate.json"
+hash = "9fc3179a219e143e4d9c6b81190380a8005c4cf951b3e63de41a5f7072f042b2"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/cherry_fence.json"
+hash = "bcec3ee26c2577a0ce23f1713417072166fb94bcb3830a26390a02ed8d1e6f8b"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/cherry_fence_gate.json"
+hash = "92232282db32000499673a02031f8632addce0a0aa11ff60026977ae721dc3f0"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/crimson_fence.json"
+hash = "fcf257c06d35d1a52973e4e45bd82797429aa842d5d9a42b10cb9f55f17d2933"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/crimson_fence_gate.json"
+hash = "1099828a13651c4b1858fc26a9c150c7320c8284c755f58d2e214d45d0d78c1e"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/dark_oak_fence.json"
+hash = "d62a396e50e50c70f201bb27ff617424faaf8839fae7b6fdb5b310a3c5729192"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/dark_oak_fence_gate.json"
+hash = "022ee52ccb9e9a380b3236f66d3db4c124e35bd61547ea70dee09b3964089aaf"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/jungle_fence.json"
+hash = "93f9f2d4cedc572f46fd93112f3a2828fdbdcf67ae40a0a46f01ff6ac63fb74c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/jungle_fence_gate.json"
+hash = "0adfe1d59fb85fb3757a2eb41d438d2ce0f1b6202030c00a5e80b189e2ddd20a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/lever.json"
+hash = "b7c71bdba1f8e79aab6f491b88932a9986a83f84ff8b4689575aef1b45666191"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/lever.json.rpo"
+hash = "cb10f47f8d10464a510ca45f41c15d8b2eb8a4ae95aa6ef7b5eedda4278acec5"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/mangrove_fence.json"
+hash = "a8008a6fc96318de8465ed65ce1338ad05a1333f5b1bfcb655d8ddf69c6c63db"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/mangrove_fence_gate.json"
+hash = "9ccd9aeeea6623118d5a9809a01936a22645cb1a4a7f8960aff344978ef56b6a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/nether_brick_fence.json"
+hash = "71accd3af15becc7b03e51bf536098501f49d22acce601f9b8c4c80d395af110"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/oak_fence.json"
+hash = "df0bc14a089ff10e72572199e751f954e4b3121840db83629f2e947ceaa69e96"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/oak_fence_gate.json"
+hash = "052814aabb32b786e41cdf042b1f3d8c0751e04123e1c06333cb38f3b0980c4f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/pale_oak_fence.json"
+hash = "0d0bfe000dd0f6bf122c8f8fd4fe6c21931f678d620194e08e0cc33436fb7d6d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/pale_oak_fence_gate.json"
+hash = "b7dd21f59d882a49f309c70d54ee1478bcbb7e15b518ffcc93c1e126174bd114"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/sculk_vein.json"
+hash = "3bad9a5bbca765c46ad3884fbd8eca55c24777373fdf4edde40d17d31259b552"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/soul_campfire.json"
+hash = "684cedf407862116651c48dc02da595533b95db4bc483632c222e01873cbc085"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/soul_campfire.json.rpo"
+hash = "6052c78af402e95ff518a7ec78b19c80efb4321844ae2e7fe5176db0dcfde618"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/spruce_fence.json"
+hash = "dc12912282adb913eaea127e515b84e2fca8381216014df6b630f5adf4ea88ef"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/spruce_fence_gate.json"
+hash = "df4688cbc9d5d5b6c89d4a13721613d5f15c38b9e89578fc4c5e34e6b9098f6d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/tripwire.json"
+hash = "afb9ef525316ebb3d38c4570dba1eb9af9f4eb1cad00ba5a27bd193fdb0dcf5a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/tripwire.json.rpo"
+hash = "30fe24c650c56502edf0b90d2c71c51555664acbff0c53a29cc8e33d6a218ce8"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/warped_fence.json"
+hash = "ed45306c94ebbff1e462845ee7794ed854b8e44558cc7aea83ea87b9bbb96aba"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/blockstates/warped_fence_gate.json"
+hash = "9a904abda7075216528eb766deebff7096631eb583f8a4758743d8fc1d741e6b"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/lang/en_us.json"
+hash = "806d6894d76f17a816d2f328a3eaf9d3f2a0877bb1b9a448957fa5f5ac40fdd6"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/acacia_fence_side_long.json"
+hash = "bcc7c42d55f7f0a5f789bf54a65918819ea82b416efe79f10175d314960fa9c2"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/anvil/161583/template_anvil.json"
+hash = "9bf3f8adb125c8935634b6101c68c621eb551fdc0118520ddf4756debf6bdae1"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/anvil/161583/template_anvil.json.rpo"
+hash = "06b26df6270274e323c37d67ec17b7b4c5af4737319f2c1cec86cbbda4be865e"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/anvil/267895/template_anvil.json"
+hash = "2b4eaab0c95e2366b13553870de4c6bcf46cc1774e5fa138e85248849d2107ff"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/anvil/267895/template_anvil.json.rpo"
+hash = "fc52262ab5c3cb7a3ed2b87bb8c2267a64d2920159eff2c14f7beec187887b91"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/barrel_down.json"
+hash = "c48bca00c6e164dad734583a4f71ab5f6256dc211f2010b872573db23aa56405"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/barrel_east.json"
+hash = "91add3289a1ec4b2ced29e6ab4b6e2d94deae7512aa067dc808ea0fd768aa98c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/barrel_north.json"
+hash = "a19d9f3f204d815ca2939503cb710d8281f7b729674e528490ae2afb128d01d5"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/barrel_open_down.json"
+hash = "a99c6bd9f7fbe4c8033ea8d7760d0c9006f4e61b0532a1c94f36422b57be0d76"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/barrel_open_east.json"
+hash = "34a46dc72de69a0ba0a6ec1ad6e935e15487c8be34a4b0d996447ada06b8d212"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/barrel_open_north.json"
+hash = "89a680f2eea3c0b9520fef4e59c43202d864f56195c9079a37ca86a35ae89026"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/barrel_open_south.json"
+hash = "62eceb932e445ae40dd6d07e61af3ff070b72c350cfc54e3428e1d0eb2591bcb"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/barrel_open_up.json"
+hash = "8687cad036a8aa6bf516341f423627e0f677dbf0b724e91165dcdb693049f805"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/barrel_open_west.json"
+hash = "e93ca8849f81128b8272d30e32c0b6f362bef65e0fe7cd3f1920ea4583810f91"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/barrel_south.json"
+hash = "110c0ac4d5b9638c37d82e857f6a7942f9dc7def498e014d5fe617b8fa92e5cc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/barrel_up.json"
+hash = "4f55debf5b6ab9f03385e705e193a2dc4b9f0faf1e69d47ee286d63b3c80f4a9"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/barrel_west.json"
+hash = "f858fb2c448f91982f5f4d4d77cec907d7540bcbd34bf23160daf0c806cacbe9"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/beacon.json"
+hash = "9a4c77e5792420f8d0c2c94560bf1a77f6ee05130cf72a3ed86f2993745f4f5d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/bee_nest.json"
+hash = "40121813b8a2d510518df244faf85521cd23218a76ad6cef935e33e92a85f73e"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/bee_nest_filled_1.json"
+hash = "e4d2169cc848c390aae57cce60d12398b577392ad081c8478a561810f7b3a438"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/bee_nest_filled_2.json"
+hash = "6405d91487ca21a2b183ef10c4a24e0c5c4852b5d51cb82c3916906385a3ec89"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/bee_nest_filled_3.json"
+hash = "9f4eb13b8132dbe095ec7c897adaed7e046b62ff2f15a1738e4ac97416f8d1cf"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/bee_nest_filled_4.json"
+hash = "c3383e596bc15761adbfb07cf6cfdd91b0f40261a9744af215ea95bf753b2442"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/beehive.json"
+hash = "bac3a99cee4b65c9d7dfe0332555a5580527f9774725f09210ca4c13d3f11ef5"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/beehive_filled_1.json"
+hash = "86a57380df923d2a7985d058a74579943e0aea30c8d47e8c23685128c415be4c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/beehive_filled_2.json"
+hash = "10c66eecc32347675d1ccb7defe79fa5fc86d2b27b42ccae11e82b09c77fd699"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/beehive_filled_3.json"
+hash = "8327b007bc129b4e1bff9659cc095cd44139ba4304d388f2d51d3705f9305ab7"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/beehive_filled_4.json"
+hash = "f24ecf536668d4df67c0cbc2ec1728037ed9b71cbc63c84cef2145fad02cfb03"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/bell_floor.json"
+hash = "88f08a61574764e5bdc7a79c78615cda893da19fa878edd1b01dbe1b082da2e4"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf.json"
+hash = "f85e3e6a3b09d4573f492a50fa10262c55b0a4122f276cafd6e465386d9e5cee"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf.json.rpo"
+hash = "0f588496b91e4b5d7f332ad987aa415d22f6701ae614b4148175476473f22db7"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf/213797/big_dripleaf.json"
+hash = "994fb615696c08afd7c3e412e885551b444a1f7c980128e666db027110868b6f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf/213797/big_dripleaf.json.rpo"
+hash = "d84ef4d6bb10017fe36c6581a83a5d66f08035fce31f7899a50a5998d39c2a6d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf/213797/big_dripleaf_full_tilt.json"
+hash = "d14fcf20bdac61f5068687de7894126eff97c2375ac2d1bc8c7df10198b7f689"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf/213797/big_dripleaf_full_tilt.json.rpo"
+hash = "1174365fcbecd63e32bea7eb20ecda8af2763c1debb0d749899f74efec57d34a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf/213797/big_dripleaf_partial_tilt.json"
+hash = "aa31530f2fea010b9d1370e1a84be04eb37725331d2dd075d949c847fdb1e23c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf/213797/big_dripleaf_partial_tilt.json.rpo"
+hash = "0332923bcc025bab3c536d55129d24b32fcdb9d71027b0fbcfe9ed4bdd32de22"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf/221851/big_dripleaf.json"
+hash = "f85e3e6a3b09d4573f492a50fa10262c55b0a4122f276cafd6e465386d9e5cee"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf/221851/big_dripleaf.json.rpo"
+hash = "22accc560c45e53fd0b1180ffe1f5708590de6d5de8d52f575c422081a3b4533"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf/221851/big_dripleaf_full_tilt.json"
+hash = "b14a0b2d34f093284ae47e10458feeb949f6111099e845cd3720f0f3de7d0b8d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf/221851/big_dripleaf_full_tilt.json.rpo"
+hash = "22accc560c45e53fd0b1180ffe1f5708590de6d5de8d52f575c422081a3b4533"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf/221851/big_dripleaf_partial_tilt.json"
+hash = "7cbc1ae4bb4da28a33119d4651a7be228320ead98e57e59cfc6c9cb74ce0aadf"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf/221851/big_dripleaf_partial_tilt.json.rpo"
+hash = "22accc560c45e53fd0b1180ffe1f5708590de6d5de8d52f575c422081a3b4533"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf_full_tilt.json"
+hash = "0fd294112e64f62eab9a1c64e75b28a75602de3a4e662a42bdef5ff3f17a35e2"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf_full_tilt.json.rpo"
+hash = "e8930d93c3059083d36f1b35cabdc0cdee5dd185fbc8ca6580c3a5cf58a430d1"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf_partial_tilt.json"
+hash = "1236886e1a59488373094cda7f6f23d4d4d381d52302171cd394e972120b95f6"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/big_dripleaf_partial_tilt.json.rpo"
+hash = "50deb017df7ab285c44945ee89a481de15427adca2c5d402c24d6e69cda9cd3e"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/birch_fence_side_long.json"
+hash = "e20e1047bd87d3f2c5194092eac831f77cb0928b00b2b79d992f97e72e03f352"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/brewing_stand.json"
+hash = "cc26cf59e1af17f73b7ad0ae9fb5fb8a488254670979c59dbc4d1b03e90ff969"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/brewing_stand.json.rpo"
+hash = "a06ab552e66bf2e826d61032bd510ba1a958b46f35e68c2b30460bd1c026dd5c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/brewing_stand_bottle0.json"
+hash = "287804b5978b40799901d8173a988f2d422aef21137ddff186354f0e0ff46b01"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/brewing_stand_bottle1.json"
+hash = "9cbb8ca9e6da921f872ccd2441d56e7e1f50c8abce63d4f171c7ae513805da8d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/brewing_stand_bottle2.json"
+hash = "30b1c9ca6921c737648ff636bb7b72d574a0135c543f5f4f2b580c189b425c0c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/brewing_stand_empty0.json"
+hash = "ff3c125792e5d6bcdf7cceb0f104f1ce6bc08627e762f3fb8b6606c8bb7204db"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/brewing_stand_empty1.json"
+hash = "8141f75a36acfe57448fabce9b2daebf8d24eca82641e7b8ed4eab382c616de2"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/brewing_stand_empty2.json"
+hash = "af74a809b2d5df51fde2d362ece22c8afecc9b8de91d0a1b9c6466a0ea4d39b4"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/button.json"
+hash = "13ebbccf96ff1833ab1ac5ab1f906cb38f5d7df822700014cbac9ce2a6418935"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/button_pressed.json"
+hash = "9af250caac766c08c3d4e75b69e49a503c0096173b35ae8dcca5585fb6761dcb"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/calibrated_sculk_sensor.json"
+hash = "18ac0de3fd1e5cfcbd2ab0531d284b39896103c9cdc5dff150a761b4e8719435"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/campfire_off.json"
+hash = "937aab4aae6be431e2fba68a89183bd42dc2ffdd2a6cf08097e527d048f76b72"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/campfire_off.json.rpo"
+hash = "2761a8418c952720c4c34e828fb8c846c8904e64600ad9dc6717c573f3a93fdc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/carpet.json"
+hash = "e59f77c5c66cc11debbb381541c43b47294f11bb1943468de3461cb18743f7ee"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/carpet.json.rpo"
+hash = "3af7aac5bffd2bf921a6659e5881bc4bb66836924ffa083abf2a7d863b6bcbae"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/cherry_fence_side_long.json"
+hash = "c8c13265593e21b17d14c6673c52567821c15abe5df8c55b5a9d06f40c7ee2fc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/composter.json"
+hash = "427e13ef74e85302aa636e2ea061e5e010d7c6eef6d6045ba4c872c2d3cd902a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/composter_contents_ready.json"
+hash = "95b0d0bc4fb7c05b537448c9ccb232e2a2e2259f6812f88975ee227926089444"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/crimson_fence_side_long.json"
+hash = "8afc5228e3f8b6279c927c69a6890f638fb29b29902baff95e69817fd25dccfc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/cube_all_inner_faces.json"
+hash = "6c24178f4cab862d8f00dd44688d7304c279b5e4d1d325241cd860a493940871"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/cube_bottom_top_inner_faces.json"
+hash = "e9704464e1ac2dc30566dbc724a244c32c111c71fb8522b731f29246156eaac0"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/dark_oak_fence_side_long.json"
+hash = "35420952e93c1539606df4bca5d926490c99e80f267751b91ce88852b3bea860"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/end_rod.json"
+hash = "ed847dcc042cda7a52714549ae373981225a51ffe149c07cb9bda54fc2883eda"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/fence/fence_inventory.json"
+hash = "90f62c6a2a6f8f387111a7f51f6ea1b6704a34ac8a701f2a66a833f93c4cbea5"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/fence/fence_inventory.json.rpo"
+hash = "546f5430eb7cf9ec65db595e0983fe7a2520db2f186c954fbcf0105a8a20c94e"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/fence_inventory.json"
+hash = "0f6456bf2857cd521d545a5ceb5a7cc260d2630bbdf927e08988ad8fde19ca21"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/fence_inventory.json.rpo"
+hash = "22a34940b8c84597aa6be43b62c8653883b54b95ceb4d42d8acd5425608113e5"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/fence_side.json"
+hash = "e6da43497f82eea1f8756cf75d61e688d1451511c407f7ce397574cc5cc023bc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/fence_side.json.rpo"
+hash = "b089ce1ff66647955ed4eaa714536de06d8de51af6c2c1062c182c03243db395"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/fence_side_long.json"
+hash = "eff28f13940ca4d29ccdf79d0f25f87f8e0a469787245270a50b9942c37a4bd0"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/glow_lichen.json"
+hash = "d89fb07c7d340ae70b372ffe64c07371b12999daa3f6be3a47731c0b00740575"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/hopper.json"
+hash = "b42b1f6b35606bca8d0898e6b8d574c2fd354cb1450750955bf5b0750cc0121e"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/hopper_side.json"
+hash = "3ae907ca766cb835bb9cb45dab8dca7bbacffd365e37cacae9d9cb0feca75925"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/inner_stairs.json"
+hash = "9d28f3b24ba20a4f33fb5c029c76c7cfa8e49c79611795b213c16b0b17ee9fe7"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/iron_bars_cap.json"
+hash = "2760f14bf5bd2a3b754ef7dec9ff16b307b47c5354005015a88feba9a20483a7"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/iron_bars_cap.json.rpo"
+hash = "ca811436183dfeb4665c1ad8cbae79c6ccb5f7ad19923e460ee94c5cd3d40b58"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/iron_bars_cap_alt.json"
+hash = "80dbc372668d5bb11153cfebcb1bd364cf88fb340b41e4ea0fb2fc75937046a1"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/iron_bars_cap_alt.json.rpo"
+hash = "ca811436183dfeb4665c1ad8cbae79c6ccb5f7ad19923e460ee94c5cd3d40b58"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/iron_bars_post.json"
+hash = "3ade5c9d453ad9d3e17863f195d3fff748896d8f8ad137b09fea4bbe25df9047"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/iron_bars_post.json.rpo"
+hash = "ca811436183dfeb4665c1ad8cbae79c6ccb5f7ad19923e460ee94c5cd3d40b58"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/iron_bars_post_ends.json"
+hash = "d1858457bdca6200e972d20727e248db6b45ebb6d2b62db27e2e87cbbee36a26"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/iron_bars_post_ends.json.rpo"
+hash = "ca811436183dfeb4665c1ad8cbae79c6ccb5f7ad19923e460ee94c5cd3d40b58"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/iron_bars_side.json"
+hash = "5676011cdc4866f0205331f38185a2d2c2fdac30ecea2d3b679d5166be351c29"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/iron_bars_side.json.rpo"
+hash = "ca811436183dfeb4665c1ad8cbae79c6ccb5f7ad19923e460ee94c5cd3d40b58"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/iron_bars_side_alt.json"
+hash = "0150222720b1aeeccee27587f461749ddcb0dfa1e5773eca5b00a12886d6afb5"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/iron_bars_side_alt.json.rpo"
+hash = "ca811436183dfeb4665c1ad8cbae79c6ccb5f7ad19923e460ee94c5cd3d40b58"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/jungle_fence_side_long.json"
+hash = "e2afcb51ecac066fc3c8063ccd1c1e86120358af8c58be9a2eb8e2ff72b0a6fa"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/lectern.json"
+hash = "8a3015bb593796c56472c693c78ffa675f33cb841464a3629a1fd550f3ddb8c0"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/lever.json"
+hash = "c1e5b284e825f26d539d901aa2ed78241ba0c449fd0662e614f57ab8c7b4b8ca"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/lever_on.json"
+hash = "7d455bb4642e4c634a003ff11bf73188aaf6241fa899f40ce062918ea3d6737b"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/lightning_rod.json"
+hash = "ed3ad1043a4f2cb9693d405d45408f257857cba0b2c49be6705f11a81f63b19f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/lightning_rod_on.json"
+hash = "d9bfc80c238697334855cdafac2daee0d206cf4728fe0c82db266962ffa0aeaa"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/mangrove_fence_side_long.json"
+hash = "719a7d5f8c1183b0b84af19bc725d3c17736544c9f6aaa3acfa32f3dc4428e86"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/mangrove_propagule.json"
+hash = "8265188ba53eea13baf3836ef24d1e1f6a8a4ed777c7f0ca88d9f274cb9480e0"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/mangrove_propagule_hanging_0.json"
+hash = "bd10f128dcc50d7bea1936661bcf1f6f1efb6634318c91eb0ab8ac295688ad64"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/mangrove_propagule_hanging_1.json"
+hash = "c08209bfd8996f5ac54e8fd82cf88f703080a5f026818e611fc9cb6cde09acad"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/mangrove_propagule_hanging_2.json"
+hash = "6a8c8a5fae503d54184004a546f4c3b152ed33b33ff291f1a5eba1d8b414a130"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/mangrove_propagule_hanging_3.json"
+hash = "a8f76011ac4a395d234dd0b3463b427fe1c8bf911f022274554e64b9bc7fa756"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/mangrove_propagule_hanging_4.json"
+hash = "9d9d7dc40e6559897757add76909b8271e9f2382ca6e61c345b65aca2ecbbae7"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/nether_brick_fence_side_long.json"
+hash = "21b9d75a8e8ea71f7203f87bce117d5c07e584ec651a2fd71afb6c3cd686d9bf"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/oak_fence_side_long.json"
+hash = "24c80837e48a4e8e5957034433794e8cd0d24766887956746a134f289b7db3d1"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/pale_oak_fence_side_long.json"
+hash = "0e783cac413e6825bf9171ed68a6eb4ef66505aef343fa335a2010e0f7402547"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/piston_head_short_sticky.json"
+hash = "6005fde8835b70fa3532d84fb667339bca71866d6b2f9120c92681f5abb14ef3"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/piston_head_short_sticky.json.rpo"
+hash = "2bafbcd2935e071a0f21aebb7f6c30c45673f0ff5e167b5d46722b5dcb5fb690"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/piston_head_sticky.json"
+hash = "bcc8171c967d2cfbeb7f3b2b126ea093d82519c679463e515f8947395f2d61f3"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/piston_head_sticky.json.rpo"
+hash = "eb7c74e2629d188217dc7aaa022ce403bd8006d1eb5cdfda0e81ed557f7426a4"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/potted_mangrove_propagule.json"
+hash = "b7c42ef8822d8bb3b2994f24f4f82cf53fa021310918552228a428879b05180b"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/potted_mangrove_propagule.json.rpo"
+hash = "683f2e295605b0409c76ce03350b85dec2f1e99d68ff6a1970e8a3b65e9251d8"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/pressure_plate_down.json"
+hash = "5f17cd29ad36835675bc02752ea743898880ad1dd17a938b57c13f027bea33df"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/pressure_plate_down.json.rpo"
+hash = "3af7aac5bffd2bf921a6659e5881bc4bb66836924ffa083abf2a7d863b6bcbae"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/pressure_plate_up.json"
+hash = "9c6c517b1a240ebb3baac35fc8a6124e69499314233b9253c0a6bab30b98c2f0"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/pressure_plate_up.json.rpo"
+hash = "3af7aac5bffd2bf921a6659e5881bc4bb66836924ffa083abf2a7d863b6bcbae"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/rail_curved.json"
+hash = "27b9f641fae0f734a8131ac757d0214ab21531c18b5894332617fecf0afb7ab2"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/rail_curved.json.rpo"
+hash = "3af7aac5bffd2bf921a6659e5881bc4bb66836924ffa083abf2a7d863b6bcbae"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/rail_flat.json"
+hash = "27b9f641fae0f734a8131ac757d0214ab21531c18b5894332617fecf0afb7ab2"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/rail_flat.json.rpo"
+hash = "3af7aac5bffd2bf921a6659e5881bc4bb66836924ffa083abf2a7d863b6bcbae"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/redstone_dust_dot.json"
+hash = "cacaa61ac614d43ae26bbc52e7f5e0507c2567b69029f7bb9e0c1bc0e27a9949"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/redstone_dust_side.json"
+hash = "af7bb6c353deb82e27fb611f0d60ee762f5572109e3248665c2bf6505fe952a0"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/redstone_dust_side_alt.json"
+hash = "c9b60c061980d1b2cdf1848ada480ad6ef7ad1204153242a76496bd95fce18d4"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/redstone_dust_up.json"
+hash = "047a2e68aea40ad6f5df81d096120340ed88dd807d7c253df960b884a73980d2"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/scaffolding_unstable.json"
+hash = "45cc0097b8852bafa6d6c648273e759c38bc934a374e70439ad4f4903425ca07"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/sculk_sensor.json"
+hash = "2ce8cff6642c231de0dc7a0951d7bd6e993a6afe0f577dcd28c5e98db049c6ad"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/sculk_vein.json"
+hash = "fb8c73f7aee059cf9ce02d08ff431632b34d25c2d3cad288f35e81490ce3caad"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/small_dripleaf_bottom.json"
+hash = "d5c5ff789ad4d85445a7a9d3de3aa7915fa419c4c2ed2e7f7f5d7cbe0c6ebdfc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/small_dripleaf_bottom.json.rpo"
+hash = "7c01ec49dae72fb6982533e459dba1eb2a04f16fbb604c3a2a7adaed48a515f7"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/small_dripleaf_top.json"
+hash = "1580b73ac6843c061214cc9ac88691ad489f6dcc93560fc23b5c185fdb197c85"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/small_dripleaf_top.json.rpo"
+hash = "7c01ec49dae72fb6982533e459dba1eb2a04f16fbb604c3a2a7adaed48a515f7"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/soul_campfire.json"
+hash = "9125bc01ef8ab549bae42e355df91a8e07780a437782dea31e0601161a9310d6"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/soul_campfire.json.rpo"
+hash = "6052c78af402e95ff518a7ec78b19c80efb4321844ae2e7fe5176db0dcfde618"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/soul_campfire_off.json"
+hash = "e9ee6074e69a13275486586877884da3cbee26ba7af3d3f5a88f65ad1ac1e19d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/soul_campfire_off.json.rpo"
+hash = "874cb3bd8b3f736c5080e99dc8af96d49bb4dcd7ef7a5e8803dc273d732e38a3"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/spruce_fence_side_long.json"
+hash = "04d5c69beb6fcab1580d317386a4b4bdb8163fdfc61bcfcc2b0ca26cb67499fa"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/stairs.json"
+hash = "6f440778c2beb8caceb8bb7737eff9a9604c1d9b8a1099406b918a9037e3b385"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/sticky_piston.json"
+hash = "eaf778c19899548c6490c61d5b993eaf6a52573f10987317dbf0a2deacf903d2"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/sticky_piston.json.rpo"
+hash = "672f9661d4ed023313479c9e403702dfb235c81c1deae573c603dbf2e76e0f40"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/sticky_piston_inventory.json"
+hash = "fc14ffec4f7472286718179902a22dcc109fdc8bbcdca8184eee6d03dbf4108c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/sticky_piston_inventory.json.rpo"
+hash = "01f2d070a5e74f00c09a01091ac838ae41bc39bfe905758dfdf98513295a5866"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/sunflower_top.json"
+hash = "bf648909cdfc6ed8daccb93d6c9e2d21b2b3fc686b10dc6589d3884bd2d9c2bc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/sunflower_top.json.rpo"
+hash = "af4eeacc0da4c5b9abd78e876c906035ac64aec37737a1b16e0aac70f4537d68"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_a_face.json"
+hash = "6f0a7e2d175538a31a3270dd1b4cc23be5b1c2d73f4693363a047a98cb48acbc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_anvil.json"
+hash = "060739eb75f7504d12b404c335a900b59d304f301160367569b9f1b8d0d76379"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_anvil.json.rpo"
+hash = "756587cd5df05a2e234b043baf64a5b77d98e850656b0875d3d0f1d8da8a55e6"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_azalea.json"
+hash = "a56b7049b1c9c4b15a0ecf8ff8c2d9132076978988410c6743bd7ee1182fe58a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_campfire_off.json"
+hash = "83aa1f17522f7866444142f7bdfbbf9ab384c740e57c86c22c3f939fd484611f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_campfire_off.json.rpo"
+hash = "2761a8418c952720c4c34e828fb8c846c8904e64600ad9dc6717c573f3a93fdc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_candle.json"
+hash = "35769aa6619f01552d5b7d6faa92eec36a54c699690665b068de2a070639164e"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_chorus_flower.json"
+hash = "0abdff12c534cdc900c791ee8f051eea220b62408f3293010d4a42ab64f2c5e6"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_fence_gate.json"
+hash = "d8e8416b86b426c94508720b4b66aea3296cbefb502f03849a1d83ad460d2342"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_fence_gate_open.json"
+hash = "6b63516f3556e42ce2b561be5719ee5c2e003c237a2b3941085fae15114417da"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_fence_gate_wall.json"
+hash = "832c6a4852c4bf0d7f329313de7b203fc29ea6379dad0ff1e58052801f07083e"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_fence_gate_wall_open.json"
+hash = "32fbc9e37d4773d55b01b815fff09f446ade2d15fba0ef02ec7abc09c9a7268a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_fire_side.json"
+hash = "9767ceb9d796debf283c8cb1914919a88c86f983b464556ecaf1e95145a31c41"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_fire_side.json.rpo"
+hash = "e00566507c169626ef3ecdcfb0174f6a18db345e3f8a31c087b2a98565c337d7"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_fire_side_alt.json"
+hash = "7b3422d72af4c60cd1aa0355bde489929eaa7af4ce039704882dc20e323c4e77"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_fire_side_alt.json.rpo"
+hash = "667ad47444bc4d672b84f676921cfc75dd6a60f8b10e0b24dac2a4f59259160b"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_four_turtle_eggs.json"
+hash = "3b7062784f1f6bcfe39f7d84c6c3dbb6e1e16077d9b1dc044654250d69530453"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_item_frame.json"
+hash = "e76eb6caa22156cd8de3317c813b2a55f4df13619dc1cf634b785c045bf9f953"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_potted_azalea_bush.json"
+hash = "cb9624aa2ba9010d5b4ae67a88e081482808b4c94b4d42bf0fb40482e4ca389c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_potted_azalea_bush.json.rpo"
+hash = "2dde9b8162451b4cfc219b713a07e76bad4020ce802e5e6f919e4194e901a0eb"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_sculk_shrieker.json"
+hash = "5db06a3dfdb04784c56db7ad3c57e7faa28d19d26c8244c842525a7f769aed7b"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_seagrass.json"
+hash = "dd8671b4cd78bf428cbecb48cad91eb2cd501e13c7e6295e0a22c8f0613f23b2"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/template_torch.json"
+hash = "0a81000d6919ff5ceace67bae78cb9362c39722c035f9bc2ad4e2d6852de645a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_attached_center.json"
+hash = "e888deaf65fa25f7a59f9792793a638a0b9c57cbc4f4e64504e85a228085585f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_attached_noside.json"
+hash = "14346ba6b76716dd7434e4c1185eb470719d9e40a972eec344f4dc431637b53b"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_attached_noside_alt.json"
+hash = "d35895e968824598811b99a68fcc471dc99556066c3e927db4a1f11735cf1615"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_attached_side.json"
+hash = "ad555b9b8f606247ddefa8a9186ce37e934aabf97d413ff22906a3de15d838e8"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_attached_side_alt.json"
+hash = "c3f7efec96ff1e1ee4df91c1071a141ff795b24f127193bc3560bc4686735f8f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_center.json"
+hash = "6934a58f0e7810b66abaf5007d243d05089e3e37381f16c8f9cc56e73ae13147"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_hook.json"
+hash = "8b7019f817a695aec76ad18de364d91a3d4f63616cddfefe2285fbebbf2a9197"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_hook.json.rpo"
+hash = "dd837ec555519d63275c1ba32c2ec00380007d57b947075bb4094daebecb05e3"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_hook_attached.json"
+hash = "ad180e690dd0498a5d6aa989fa98d3ba58a6aab51771dcfdba3e8945ed66479c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_hook_attached.json.rpo"
+hash = "dd837ec555519d63275c1ba32c2ec00380007d57b947075bb4094daebecb05e3"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_hook_attached_on.json"
+hash = "35ca0623d86fe1c08d1e52e358598f1908cf8eaf5467a80bceb27f41a1ce3bbc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_hook_attached_on.json.rpo"
+hash = "dd837ec555519d63275c1ba32c2ec00380007d57b947075bb4094daebecb05e3"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_hook_on.json"
+hash = "b77a25bc305e97a6db086b819c1c186e4a2aca0fc2cc2108ed378675e45108a3"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_hook_on.json.rpo"
+hash = "dd837ec555519d63275c1ba32c2ec00380007d57b947075bb4094daebecb05e3"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_noside.json"
+hash = "473ebd215a2d5e1c4a73e0c5137c34f2b8779986b3062763c47bf9220e3d02c0"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_noside_alt.json"
+hash = "390e209243ea683f78f1dc4b7959c0e1346863d4d5b5dadae5a753583c036c7c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_side.json"
+hash = "da772ed3d060621e4e7a3fe098267ddce2956bc000ab861513fc7c0358029d9f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/tripwire_side_alt.json"
+hash = "41fc481af16a76c557a505a3e81f3e5dd3b48a87d02eb020555487ebc13e2dde"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/block/warped_fence_side_long.json"
+hash = "a4f7b03d5360132feca8cfbb7358fb061b154b463796840cd02928b90234328c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/beetroot_soup.json"
+hash = "d4d9d81b56b2104522d19fb8d872650c207878d1d60ba8b4b08d9e782811ea80"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/beetroot_soup.json.rpo"
+hash = "510131b70ab17092666df5631a46b091446c3d6854badf4bb8e3dbbbeed87a3a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/hanging_roots.json"
+hash = "b539b873423f952b9bed7cf535e2a4e60d65a2fdd6b6fe6c51ffb02744faf5d6"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/hanging_roots.json.rpo"
+hash = "3e1d28fbdd20b2e52ad37827c1fe699d0cb4408cc993d43e99a134226e3f9477"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/mushroom_stew.json"
+hash = "b95a9f7b908a5ab601d96069f9e264abe77b58b255e602ca09753dd1fbc5215a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/mushroom_stew.json.rpo"
+hash = "510131b70ab17092666df5631a46b091446c3d6854badf4bb8e3dbbbeed87a3a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/rabbit_stew.json"
+hash = "d16388b49108c6aafdc917ff4742cbe57982eb89e341caded5db755dc9b499a0"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/rabbit_stew.json.rpo"
+hash = "510131b70ab17092666df5631a46b091446c3d6854badf4bb8e3dbbbeed87a3a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/shield.json"
+hash = "fcaca194cf7629c99e38e740ac3b82f086c380554a243d1eb9e7a26033b0cfae"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/shield.json.rpo"
+hash = "15eccacbc1b29d5c21a07cae0473ea475ed266ed388ab5c93dc5b01b7cfcb89b"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/shield_blocking.json"
+hash = "12d174312f31c851267724c5aedae53b5bd4737bbefee3c6dc12917bacc3b739"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/shield_blocking.json.rpo"
+hash = "15eccacbc1b29d5c21a07cae0473ea475ed266ed388ab5c93dc5b01b7cfcb89b"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/slime_ball.json"
+hash = "580b141e7bf99715be6340bf217e491224eb472af22fdee991ed19dd202be838"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/slime_ball.json.rpo"
+hash = "f2d8162c9cd08d4da6d4060445a15229e8a98b2f65dcf89040db9853bde9938d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/sticky_piston.json"
+hash = "fcd7fb9069f94602a20ba50400d16df019320ca16f97152d7501ecd5ae27696c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/suspicious_stew.json"
+hash = "f81c8dab1f1cebed3de0e6e4b579b23242be4f0a25f86cdf1e2d11c4f47f4e8f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/suspicious_stew.json.rpo"
+hash = "510131b70ab17092666df5631a46b091446c3d6854badf4bb8e3dbbbeed87a3a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/template_banner.json"
+hash = "e8bb73fe099040f4532c59f49ecaf29cb8067b069c215c704d48ada2be0ff927"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/models/item/template_banner.json.rpo"
+hash = "6a40f9ce48e43e659ce6bb1be36f236aad21ca00c5baab490cd55a241811b2c3"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/optifine/emissive.properties"
+hash = "400c2533d1f4d94ee1d1c747e98196b4769eda86c105ef8aef32b0f3eaab722e"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/optifine/emissive.properties.rpo"
+hash = "f1878888707cc458b5a106b59fc82a39fa4d0b318489e9a37a56316f09d29102"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/ancient_debris_side_e.png"
+hash = "cefe8b5da2f1beaccb20fd974f08d1186a9364c3a6f9f639898f3a7c08019b67"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/ancient_debris_top_e.png"
+hash = "2b5ce1d048831b0512a5e843cdcfc7fdcbe0867ff1ab5d335befe071f6c890ae"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/barrel_bottom.png"
+hash = "65b35ee9b65892de32328ab5c3fbaf0efa4bfd7a5c9f28b465397a7b66fca4d1"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/barrel_side_1.png"
+hash = "8dea304c350bbcd97633c7c0a5cdde5a49bbbe3fa249b7954a9dc4decc95b467"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/barrel_side_3.png"
+hash = "1c8004a1ffca142553b57e6786ddbd1991589bd76ed849748df24d42f7d6acf1"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/barrel_side_4.png"
+hash = "eb7706cc51a88b9f483d01c69594f788014391599f1da6b953e10e1df4dbf875"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/barrel_side_5.png"
+hash = "b7a02f6a634feec1729e81c92e43eb08c7c9aa785dbf4abb79cc593bbe99a141"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/barrel_side_6.png"
+hash = "27340d44e99fd2a00f7578465fdeb85cf0397489c3157ec752c1d13bccdbd6d4"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/barrel_top.png"
+hash = "2a3f0b53fb90f30a7d3481deff7bfd787880a37f0b0f8174e2bad0edbd64be12"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/barrel_top_open.png"
+hash = "4feaf06bc0989013cf5b0d528b424020eafdc65510e62d512be6cf9fcfe65fc1"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/bee_nest_front_filled_1.png"
+hash = "753975e756d70d17b1c70d7331cdbb067ee24b1afac4df0d2dbd5afa2a083ce4"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/bee_nest_front_filled_2.png"
+hash = "fca60fcc32e04fb451436145b31ae2c83788fe1bf85efc0a4fc1e6c424d5d153"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/bee_nest_front_filled_3.png"
+hash = "3f2c5a73d8c56e346182ee59c2fccfadd3a635b519b94d44d7f7b8b1d9f164c5"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/bee_nest_front_filled_4.png"
+hash = "16954a3776c7cdc56f3af11f976297da771d63e86cf62fa1748458c3e282434f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/beehive_front_filled_1.png"
+hash = "4b831d58ff4facc3560b1d74ee542be429b17fc02b128d2a5c8b0fda6f856e82"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/beehive_front_filled_2.png"
+hash = "ed58c3c75fa0e6b67056d3308148ed78b951f3771ba98188ad76f5565a4df2e0"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/beehive_front_filled_3.png"
+hash = "770d89809e0e4d3426dc12842451ff70080eff23334cd9e6859f98e95a041fc4"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/beehive_front_filled_4.png"
+hash = "72e5002144d690e39cbd0ddadff715ae523c51c8ccea4803bc417e69fba80648"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/big_dripleaf_stem_full_tilt.png"
+hash = "a4e710278d638189da1b0d531277b99d8b224d0bc2342f6aaa6ee99a5e2e7c8d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/big_dripleaf_stem_partial_tilt.png"
+hash = "5d88d86c7f1774ce81c5a81827d6b8d8d02aedcb2a4a5718966e50816b9eac23"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/brewing_stand_base.png"
+hash = "056caab5183ef173a23e6307fa61a6ec3f5f0ddd405c8de52fd86983bc915a45"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/cactus_bottom.png"
+hash = "125d5b8da35d51ce6b45d3757fdc7615d514414a8577990da48185a090a1a24e"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/cactus_bottom.png.rpo"
+hash = "a465d3971fea1d6b3b964e338c628e638a2d711e5991ce1ad943222ef75f8407"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/coal_ore_e.png"
+hash = "9d1a09dd9e034847647226624c1134450e8fe8ce3538a3283d532aa75298550d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/copper_ore_e.png"
+hash = "0f02edfed727fd3663021424b46dfd134e0e2ebca0df6a75b69d3b74ff272b22"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/deepslate_coal_ore_e.png"
+hash = "e3bcd8a9b70f3675410fbca9f32f885fbcf476166e4bd1a992058267c67ffead"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/deepslate_copper_ore_e.png"
+hash = "0d2e9b3096648bb4152cae75d15d0b510585c6f746dc8a88799864f5e1281edc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/deepslate_diamond_ore_e.png"
+hash = "519baf84f0e11cbcf5614054c6647a179bc75cb5cdd8c98c12d6c0257b43c568"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/deepslate_emerald_ore_e.png"
+hash = "cc7372b025df8b26dac31813289aff546ec2ea65884b24d5e3829829a8945d5d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/deepslate_gold_ore_e.png"
+hash = "b5a951c77f4996dc8e467e7c5de884381865f1358be61d09629f74017e56ef6b"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/deepslate_iron_ore_e.png"
+hash = "2b3144b626ccca5d4e38ccb66a8807c5c40ae91fdc71ebe279782ae2638307e1"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/deepslate_lapis_ore_e.png"
+hash = "266fd3d097593f76be532632a472c595936811388703ceb759269b7ce1792688"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/deepslate_redstone_ore_e.png"
+hash = "c1c40b440c4ae8ead3d650a468fc665a7248afd27f54976fbdf4fca03743520f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/diamond_ore_e.png"
+hash = "5b4fd702692810b14bd83fe058a866b8228f14780d721c67b7676fe808233bd0"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/emerald_ore_e.png"
+hash = "9750ae9b8b84fc22d0e7dcd39652a40b23436b69d20258465243f0ba2d73e621"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/fire_0.png"
+hash = "3c9bd20cbfaa58ce53dd31b036b2216bd7fabab0d5aaec61c6e6feed103cf2ea"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/fire_0.png.mcmeta"
+hash = "264e3b93450a755a1270e28d456208e89cf520cae41de35453ab701f60a5dc3a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/fire_0.png.rpo"
+hash = "6811fbc7d3213542c57fe1f4c485ea099e46428373bb1bb4c9b1f29e12e41a89"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/fire_1.png"
+hash = "6529107352a15e6c12e2c5c15eb1801a497ed2e94b28d3d5db7a4881d238325a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/fire_1.png.mcmeta"
+hash = "264e3b93450a755a1270e28d456208e89cf520cae41de35453ab701f60a5dc3a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/fire_1.png.rpo"
+hash = "6811fbc7d3213542c57fe1f4c485ea099e46428373bb1bb4c9b1f29e12e41a89"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/gold_ore_e.png"
+hash = "860581abcf1db0266d6ace28143cab4db00d8caf993a4ea45e30b758dfcaf10d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/iron_ore_e.png"
+hash = "dc8cd2c1378e1c4d21d414e4e5a0d4cb2f3717984708d85a4c56a5d421de3079"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/lapis_ore_e.png"
+hash = "b75f50971b08faf9b4e915c26cbe8852ed4e361e16c13a0cd100b208ed64fdd8"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/nether_gold_ore_e.png"
+hash = "bd49e3da4b3c1a6e50245c80085e22500e370b32e6f08205847dd0a55d358e5c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/nether_quartz_ore_e.png"
+hash = "32cb3d47232229e1e62553225b11676219a0841e49b5b6dabea2effd6b7072a5"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/piston_bottom_sticky.png"
+hash = "16171cb8fa35076860febfc9b62385f03efcd3bf4e5572de82195eb614c9ae39"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/piston_side_sticky.png"
+hash = "4d0881e15b5676d583de28b3e0b9fd17aff95d265292e706843d135e85f3d15e"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/redstone_ore_e.png"
+hash = "218a36266bcb42b72a91b66ba81c1fc9acf96789eaf7b82375776fdd19d560b9"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/soul_campfire_log.png"
+hash = "bdc3fbc56ebb3bac2a3377e5b5b74f4e9e3339090ce446092b666a188f823ddf"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/soul_campfire_log_lit.png"
+hash = "6a8ceab676bb02c519f31823dd4eb9a022cbb91fa97d2889659c5655b4172fbd"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/soul_campfire_log_lit.png.mcmeta"
+hash = "4df0a0cf1fbc9319ebe93ad90d934f50e997a99216340d41ea95c175ec26bcba"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/soul_campfire_log_lit.png.rpo"
+hash = "6052c78af402e95ff518a7ec78b19c80efb4321844ae2e7fe5176db0dcfde618"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/soul_fire_0.png"
+hash = "394da743dcad6ac3cef9b77b01bbc136e61a9943a8661a9d2454d91a7adbd8ec"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/soul_fire_0.png.mcmeta"
+hash = "658d67c1b3206e23a401d04ec196512b72702b7b8c6fa0200c6c66250529bbbb"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/soul_fire_0.png.rpo"
+hash = "6811fbc7d3213542c57fe1f4c485ea099e46428373bb1bb4c9b1f29e12e41a89"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/soul_fire_1.png"
+hash = "3768e478f17c1114772e7ec7d0e8259d623267fe5071f174e5ea0a8bac4875af"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/soul_fire_1.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/soul_fire_1.png.rpo"
+hash = "6811fbc7d3213542c57fe1f4c485ea099e46428373bb1bb4c9b1f29e12e41a89"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/water_flow.png"
+hash = "8cf68f697bbc23d0b8099fd97043f3df13478d57ad15ab490276b9a7854c6584"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/water_flow.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/water_flow.png.rpo"
+hash = "705c85372a7cbe5bc4d866c5fd4f54227b7473f99e4ba2ed3a12bde4492bb297"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/water_overlay.png"
+hash = "a8ceb6ae4c2f1e1083f2ebcfc9c7925a3da9b8d08680a9b289abf3ab8dcf81f2"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/water_overlay.png.rpo"
+hash = "705c85372a7cbe5bc4d866c5fd4f54227b7473f99e4ba2ed3a12bde4492bb297"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/water_still.png"
+hash = "fa920ea36b60591b6d546762c3ccf2de9814a50c3c29dd2139ca06eb49d0c79d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/water_still.png.mcmeta"
+hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/block/water_still.png.rpo"
+hash = "705c85372a7cbe5bc4d866c5fd4f54227b7473f99e4ba2ed3a12bde4492bb297"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/entity/chest/normal_left.png"
+hash = "b6431fb25141662344c63d063d212b0e45c2aa6b6e58b9b90d066f5c33ec479d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/entity/chest/normal_left.png.rpo"
+hash = "0e08ebcafddc99bdec1cb4f457f7ced839de3f21ab3afe58d8905a9dd297c09a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/entity/chest/normal_right.png"
+hash = "d6360fc33f2f819c015d77979dbbf73d7b21d1be221ccbe192c70c47e5981972"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/entity/chest/normal_right.png.rpo"
+hash = "0e08ebcafddc99bdec1cb4f457f7ced839de3f21ab3afe58d8905a9dd297c09a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/entity/chest/trapped_left.png"
+hash = "6917c6b83ff9075fd7d0d36971a193d6792ed1a86a9856289caa8e2aa4769465"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/entity/chest/trapped_left.png.rpo"
+hash = "0e08ebcafddc99bdec1cb4f457f7ced839de3f21ab3afe58d8905a9dd297c09a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/entity/chest/trapped_right.png"
+hash = "c1940ccec48ee210d6967437495984fee115335d0cf12aa579a81afa4d039a21"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/entity/chest/trapped_right.png.rpo"
+hash = "0e08ebcafddc99bdec1cb4f457f7ced839de3f21ab3afe58d8905a9dd297c09a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/entity/iron_golem/iron_golem.png"
+hash = "c22d625924178c6d8a069dc31fdcb08811436ae6814021848a3fbcda61e26728"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/entity/iron_golem/iron_golem.png.rpo"
+hash = "d989a876064c8417e0114134e7d09bf598dfa5acfc606ff1bb3c7c0772a84e6d"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/container/smithing.png"
+hash = "c4cf24c0cb293dccc4b3879599cb6eaa3f3cfd6757bd2524b7f56bb75a86d273"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/container/smithing.png.rpo"
+hash = "98f5a86530bf993c95332239ac81d95d049ec7632832a593c57a0a1ac4ddbd5c"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+hash = "35f9511030da2a27d6e198d0681bb30214088d72c7a381a383e843a7cab40fe8"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png.rpo"
+hash = "79923febeee8292f09f54975c440b472b166d56b26e99c93246cba062b2d9005"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/recipe_book/page_backward_highlighted.png"
+hash = "0e62f165d285a6aaa0a14644cb02ccfb7e3d27b33ba58ff72fc0c8d28ade8b1b"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/recipe_book/page_backward_highlighted.png.rpo"
+hash = "79923febeee8292f09f54975c440b472b166d56b26e99c93246cba062b2d9005"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/recipe_book/page_forward_highlighted.png"
+hash = "387791fa3ffc7a3c3d12d6d94604ae62a306a3a0f01c84094781856e71f5638f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/recipe_book/page_forward_highlighted.png.rpo"
+hash = "79923febeee8292f09f54975c440b472b166d56b26e99c93246cba062b2d9005"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/server_list/join_highlighted.png"
+hash = "4d230f6c09b485093c06163f7c23440e1708f88930a4517d231918ed4d7f419f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/server_list/join_highlighted.png.rpo"
+hash = "79923febeee8292f09f54975c440b472b166d56b26e99c93246cba062b2d9005"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/server_list/move_down_highlighted.png"
+hash = "e5c5602e661c6825f1a8aa00c9e4a2710c877411d40d083218b5d669aad8343a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/server_list/move_down_highlighted.png.rpo"
+hash = "79923febeee8292f09f54975c440b472b166d56b26e99c93246cba062b2d9005"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/server_list/move_up_highlighted.png"
+hash = "0f1b77f8aaafa565a2ec86b33fca94f906e5c7b1d6fe2c0e55d3afb7eb0f6957"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/server_list/move_up_highlighted.png.rpo"
+hash = "79923febeee8292f09f54975c440b472b166d56b26e99c93246cba062b2d9005"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/spectator/close.png"
+hash = "06210b5bdcfb68aa180dc44f48d68f982e52fb6c32822cb71febb0f200b37aec"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/spectator/close.png.rpo"
+hash = "9772a349484edcb7b8c2c3c2de2a96081fe3c5fd935e2f2c6b0eb74bc598a93f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/spectator/teleport_to_player.png"
+hash = "24087bd8d7e2fd68884f79e9e46ee494a6bd73318c273d920274d6780d88a613"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/spectator/teleport_to_player.png.rpo"
+hash = "b5277a0c654521e731af2fae937350121f87328483bc1c393b241715fb5d29ca"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/spectator/teleport_to_team.png"
+hash = "c41a23090ada1b53dba7ee6cb00d3ee9e240e3b1318627a119c026e93261aa14"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/spectator/teleport_to_team.png.rpo"
+hash = "b5277a0c654521e731af2fae937350121f87328483bc1c393b241715fb5d29ca"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/statistics/block_mined.png"
+hash = "cd4cc1ed73c6d2f02bab9b0e11b246dfe4a4f993697c3ece11ded29dff44263f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/statistics/block_mined.png.rpo"
+hash = "fa4365e8f7968e17a2e2e23c98f92630a09a191fef8598ca1321b1f6d7ab4a85"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/statistics/item_broken.png"
+hash = "2c799f7c53db0e482926bba95549be0e1f57c87cdb160c84388fdd5b6f0b2e28"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/statistics/item_broken.png.rpo"
+hash = "fa4365e8f7968e17a2e2e23c98f92630a09a191fef8598ca1321b1f6d7ab4a85"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/toast/tree.png"
+hash = "2de587bc685e9cc0fdfd7c803409b893bc6987c3da29f43148635a78ffdf642e"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/toast/tree.png.rpo"
+hash = "fa4365e8f7968e17a2e2e23c98f92630a09a191fef8598ca1321b1f6d7ab4a85"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/transferable_list/move_down_highlighted.png"
+hash = "7412e549a30dc54b3179b4b99e09d2a8d4d84c352df81b55974da7fe569ceb9a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/transferable_list/move_down_highlighted.png.rpo"
+hash = "79923febeee8292f09f54975c440b472b166d56b26e99c93246cba062b2d9005"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/transferable_list/move_up_highlighted.png"
+hash = "cbe9f0979bed4e52cb7fbf5f9907c9bf352ccc75183b81e357d7a1526c5bd211"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/transferable_list/move_up_highlighted.png.rpo"
+hash = "79923febeee8292f09f54975c440b472b166d56b26e99c93246cba062b2d9005"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/transferable_list/select_highlighted.png"
+hash = "b72111cb30a7bb155c0a438bcd56fd4284d0bc1636338c4c09c3aaad11b0fc36"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/transferable_list/select_highlighted.png.rpo"
+hash = "79923febeee8292f09f54975c440b472b166d56b26e99c93246cba062b2d9005"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/transferable_list/unselect_highlighted.png"
+hash = "43e756e96eaa4585a4abf28dc6877cd4d04d43f64c84f5ab47d8a2a6eb1037ee"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/transferable_list/unselect_highlighted.png.rpo"
+hash = "79923febeee8292f09f54975c440b472b166d56b26e99c93246cba062b2d9005"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/world_list/join_highlighted.png"
+hash = "b72111cb30a7bb155c0a438bcd56fd4284d0bc1636338c4c09c3aaad11b0fc36"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/world_list/join_highlighted.png.rpo"
+hash = "79923febeee8292f09f54975c440b472b166d56b26e99c93246cba062b2d9005"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/world_list/marked_join_highlighted.png"
+hash = "4d230f6c09b485093c06163f7c23440e1708f88930a4517d231918ed4d7f419f"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/gui/sprites/world_list/marked_join_highlighted.png.rpo"
+hash = "79923febeee8292f09f54975c440b472b166d56b26e99c93246cba062b2d9005"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/item/golden_hoe.png"
+hash = "52fa2736e778ff2d2af94a93dcd0a9a8e6c5da249f24b4695be15aebf3b76b99"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/item/golden_hoe.png.rpo"
+hash = "4408aa03fb68e096aba14dfac747ee55ee6463c9092a24962491d84df1e39c70"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/item/iron_hoe.png"
+hash = "906aebfb45abfe168bbd772c5f65cf19eb9e4de0b445d3d3ffbee69bde4d50c1"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/item/iron_hoe.png.rpo"
+hash = "4408aa03fb68e096aba14dfac747ee55ee6463c9092a24962491d84df1e39c70"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/item/splash_potion.png"
+hash = "7e3865a5b04262d1369a1f637eee6d614e6c000fff1a6a43c1bdb62582e9447b"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/item/splash_potion.png.rpo"
+hash = "b69390fd2da04cb9c84d1d174dd1c1832d4c16be1d1b9a468eda38be405e6c45"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/item/stone_hoe.png"
+hash = "87a600bfeee6e408ba83d79b773b81f54179b5490ef0e6cdc40156bc6eda7319"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/item/stone_hoe.png.rpo"
+hash = "4408aa03fb68e096aba14dfac747ee55ee6463c9092a24962491d84df1e39c70"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/item/transparent.png"
+hash = "7694413e6875b0a1982b7eefe6fcc82201a6e1d44351bdf7560529e6d5976aa9"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/misc/pumpkinblur.png"
+hash = "e8b5883fd73c262761e06da0e8a61bd2be61b07fc7e69fda8ea53953201df8db"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/misc/pumpkinblur.png.rpo"
+hash = "fde180f2c7e3789c3b2cc46371253a7ca2a71fbb905001d0f7a1e4404e540ae4"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/particle/spark_4.png"
+hash = "e6dd439db2474db73a3d6dc5a1496af033e1058f02b0d8738205c469c505d9b9"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/assets/minecraft/textures/particle/spark_4.png.rpo"
+hash = "b3542412abb0d2f547e4125148a3988da166b1d9a2012a9c3e9a738b88e4983a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/bug_fixes.txt"
+hash = "39be1cca5426fb045bbcdc887b8a2a13860822409ddae6e3892acf0672fe05bb"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/credits.txt"
+hash = "179ab109f92c38fb6b23034f19190f046698528957d1e14ae795b8b078f3793a"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/pack.mcmeta"
+hash = "7062f642af79210dcf5e6ea09da0673161d7b05569f74152e9917e3fb121ea56"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/pack.png"
+hash = "0924df13a82c70b3b580bb47c9defe0f327f4419f2849022a620ccb3521a0934"
+
+[[files]]
+file = "resourcepacks/Magically Fixed v1.13.2/respackopts.json5"
+hash = "301ed244417d1e9df073e8e90a3a51f3b725a06d48fda9dc76c9b601d0e609b4"
+
+[[files]]
+file = "resourcepacks/spectral.pw.toml"
+hash = "46fb6f24f9aaf4769f8246b9f9360c7b6e834c4369ac1855597171f5f9abd696"
 metafile = true

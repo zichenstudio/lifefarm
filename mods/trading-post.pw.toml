@@ -1,0 +1,13 @@
+name = "Trading Post"
+filename = "TradingPost-v21.11.0-mc1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8pcjMDgj/versions/z6U2F5qr/TradingPost-v21.11.0-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "7a3ca30a284f605c2f55eb03465511ab5fb096d91200aa1da8858bb5bc5b1f93365c26dc37f26ff0c657e933eb630b70cb0688d2777d9c747ec1260bedaeaed3"
+
+[update]
+[update.modrinth]
+mod-id = "8pcjMDgj"
+version = "z6U2F5qr"

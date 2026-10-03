@@ -1,0 +1,13 @@
+name = "CropXP"
+filename = "cropxp-fabric-1.21.11-1.1.0-fabric-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d3lKBDnb/versions/LKlv7F3N/cropxp-fabric-1.21.11-1.1.0-fabric-1.21.11.jar"
+hash-format = "sha512"
+hash = "fbe0cdbe1afe5596d3bfeb53ce9853d1a3033cace3b6eb40b8db04cb1c1046385c6e1bcc7af15e3fd98ef222422e0bd7cab3f80e1fb8207aad8358939cdb9815"
+
+[update]
+[update.modrinth]
+mod-id = "d3lKBDnb"
+version = "LKlv7F3N"
