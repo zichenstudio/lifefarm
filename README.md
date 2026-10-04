@@ -4,15 +4,16 @@
 
 ## 使用方法
 
-### 直接游玩（推荐）
+### 方法一：直接游玩（推荐）
 
 不想折腾？直接下载打包好的`.mrpack`，拖入启动器即玩。、
 
 1. 前往[releases](https://github.com/zichenstudio/lifepack/releases)
 2. 下载最新版本的`.mrpack`文件
 3. 拖入启动器
+4. 根据需求配置，详见[配置步骤](#配置步骤)
 
-### 从源码构建
+### 方法二：从源码构建
 
 如果你像基于此项目制作你的整合包，或者单纯像自己构建。
 
@@ -28,7 +29,22 @@ cd lifefarm
 packwiz modrinth export
 ```
 
-构建完成后，`.mrpack`文件在根目录下，按照[直接游玩](#直接游玩推荐)中步骤安装即可。
+构建完成后，`.mrpack`文件在根目录下，按照[直接游玩](#方法一直接游玩推荐)中步骤安装即可。
+
+### 配置步骤
+
+*（此部分内容均为可选，请根据自己需求配置）*
+
+整合包对一些在原版冲突的附魔做了兼容，但是有一些是默认不启用的。
+
+- 如果你希望伤害类附魔可以兼容，请使用指令`/datapack enable "universalenchants:compatible_damage_enchantments"`
+- 如果你希望保护类附魔可以兼容，请使用指令`/datapack enable "universalenchants:compatible_protection_enchantments"`
+
+当然，你也可以随时再关闭它们，但附魔后的物品会保留。
+
+如果你没有准备资源包，可以直接启用我们准备的Spectral材质包。
+
+以上是一些必要内容。
 
 ## 模组列表
 
