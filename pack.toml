@@ -1,6 +1,6 @@
 name = "lifefarm"
 author = "imoutopia"
-version = "1.0.0+20261004.Release"
+version = "1.0.0+20261004"
 pack-format = "packwiz:1.1.0"
 
 [index]
