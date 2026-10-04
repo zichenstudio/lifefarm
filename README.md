@@ -2,6 +2,34 @@
 
 一个以种田、风景、养老为主要玩法的 Minecraft 整合包，基于 [Elixir](https://modrinth.com/modpack/elixir) 制作。
 
+## 使用方法
+
+### 直接游玩（推荐）
+
+不想折腾？直接下载打包好的`.mrpack`，拖入启动器即玩。、
+
+1. 前往[releases](https://github.com/zichenstudio/lifepack/releases)
+2. 下载最新版本的`.mrpack`文件
+3. 拖入启动器
+
+### 从源码构建
+
+如果你像基于此项目制作你的整合包，或者单纯像自己构建。
+
+**环境要求**
+
+需要 [packwiz](https://github.com/packwiz/packwiz)
+
+**构建步骤**
+
+```bash
+git clone https://github.com/zichenstudio/lifefarm.git
+cd lifefarm
+packwiz modrinth export
+```
+
+构建完成后，`.mrpack`文件在根目录下，按照[直接游玩](#直接游玩推荐)中步骤安装即可。
+
 ## 模组列表
 
 | 名称 | 作者 | 许可证 |
