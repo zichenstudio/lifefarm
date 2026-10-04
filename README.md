@@ -2,6 +2,12 @@
 
 一个以种田、风景、养老为主要玩法的 Minecraft 整合包，基于 [Elixir](https://modrinth.com/modpack/elixir) 制作。
 
+##  整合包信息
+- Minecraft 版本：1.21.11
+- 整合包版本：
+- 模组加载器：Fabric
+- 推荐内存：8GB
+
 ## 使用方法
 
 ### 方法一：直接游玩（推荐）
