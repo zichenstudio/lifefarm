@@ -1,37 +1,37 @@
-# 生活农场
+# LifeFarm
 
 [简体中文](README.md)|[English](README-en.md)
 
-一个以种田、风景、养老为主要玩法的 Minecraft 整合包，基于 [Elixir](https://modrinth.com/modpack/elixir) 制作。
+A Minecraft modpack focused on farming, scenery, and a relaxed retirement-style pace, built on top of [Elixir](https://modrinth.com/modpack/elixir).
 
-> 轻量、养老、慢节奏
+> Lightweight, relaxed, slow-paced
 
-##  整合包信息
-- Minecraft 版本：1.21.11
-- 整合包版本：![version](https://img.shields.io/github/v/release/zichenstudio/lifefarm)
-- 模组加载器：Fabric
-- 推荐内存：8GB
+## Modpack Information
+- Minecraft Version: 1.21.11
+- Modpack Version: ![version](https://img.shields.io/github/v/release/zichenstudio/lifefarm)
+- Mod Loader: Fabric
+- Recommended Memory: 8GB
 
-## 使用方法
+## Usage
 
-### 方法一：直接游玩（推荐）
+### Method 1: Play Directly (Recommended)
 
-不想折腾？直接下载打包好的`.mrpack`，拖入启动器即玩。、
+Don't want to tinker? Just download the packaged `.mrpack` and drag it into your launcher.
 
-1. 前往[releases](https://github.com/zichenstudio/lifepack/releases/latest)
-2. 下载最新版本的`.mrpack`文件
-3. 拖入启动器
-4. 根据需求配置，详见[配置步骤](#配置步骤)
+1. Go to [releases](https://github.com/zichenstudio/lifepack/releases/latest)
+2. Download the latest `.mrpack` file
+3. Drag it into your launcher
+4. Configure as needed — see [Configuration Steps](#configuration-steps)
 
-### 方法二：从源码构建
+### Method 2: Build from Source
 
-如果你像基于此项目制作你的整合包，或者单纯像自己构建。
+If you want to build your own modpack based on this project, or just prefer to build it yourself.
 
-**环境要求**
+**Requirements**
 
-需要 [packwiz](https://github.com/packwiz/packwiz)
+You need [packwiz](https://github.com/packwiz/packwiz)
 
-**构建步骤**
+**Build Steps**
 
 ```bash
 git clone https://github.com/zichenstudio/lifefarm.git
@@ -39,26 +39,26 @@ cd lifefarm
 packwiz modrinth export
 ```
 
-构建完成后，`.mrpack`文件在根目录下，按照[直接游玩](#方法一直接游玩推荐)中步骤安装即可。
+After building, the `.mrpack` file will be in the root directory. Follow the steps in [Play Directly](#method-1-play-directly-recommended) to install it.
 
-### 配置步骤
+### Configuration Steps
 
-*（此部分内容均为可选，请根据自己需求配置）*
+*(This section is entirely optional — configure according to your own needs.)*
 
-整合包对一些在原版冲突的附魔做了兼容，但是有一些是默认不启用的。
+The modpack makes some vanilla-conflicting enchantments compatible, but some are disabled by default.
 
-- 如果你希望伤害类附魔可以兼容，请使用指令`/datapack enable "universalenchants:compatible_damage_enchantments"`
-- 如果你希望保护类附魔可以兼容，请使用指令`/datapack enable "universalenchants:compatible_protection_enchantments"`
+- If you want damage-type enchantments to be compatible, use the command `/datapack enable "universalenchants:compatible_damage_enchantments"`
+- If you want protection-type enchantments to be compatible, use the command `/datapack enable "universalenchants:compatible_protection_enchantments"`
 
-当然，你也可以随时再关闭它们，但附魔后的物品会保留。
+You can also disable them again at any time, but enchanted items will retain their enchantments.
 
-如果你没有准备资源包，可以直接启用我们准备的Spectral材质包。
+If you don't have a resource pack ready, you can directly enable the Spectral resource pack we've prepared.
 
-以上是一些必要内容。
+That covers the essential information.
 
-## 模组列表
+## Mod List
 
-| 名称 | 作者 | 许可证 |
+| Name | Author | License |
 | --- | --- | --- |
 |[[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features)|[Traben](https://modrinth.com/user/Traben)|LGPL-3.0-only|
 |[[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)|[Traben](https://modrinth.com/user/Traben)|LGPL-3.0-only|
@@ -147,35 +147,35 @@ packwiz modrinth export
 |[Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)|[shedaniel](https://modrinth.com/user/shedaniel)|LGPL-3.0-only|
 |[Zoomify (Zoom)](https://modrinth.com/mod/zoomify)|[isxander](https://modrinth.com/user/isxander)|LGPL-3.0-only|
 
-## 材质包
+## Resource Packs
 
-| 名称 | 作者 | 许可证 |
+| Name | Author | License |
 | --- | --- | --- |
 |[Spectral](https://modrinth.com/resourcepack/spectral)|[Fulmine](https://modrinth.com/user/Fulmine)|CC-BY-NC-SA-4.0|
 
-*所有相关信息均来源于[Modrinth](https://modrinth.com/)。*
+*All relevant information is sourced from [Modrinth](https://modrinth.com/).*
 
-*本列表绝大部分信息使用[justin-carver/sculkr](https://github.com/justin-carver/sculkr)生成，感谢其作者 Justin Carver 及贡献者。*
+*The vast majority of this list was generated using [justin-carver/sculkr](https://github.com/justin-carver/sculkr). Thanks to its author Justin Carver and contributors.*
 
 ## FAQ
 
-Q：启动时报错 / 崩溃怎么办？
-A：请先查看 logs/latest.log，并在 Issues 中搜索是否已有相同问题。若无，请新建 Issue 并附上日志，我会尽力看的。
+Q: The game crashes / throws errors on startup. What do I do?
+A: Please check logs/latest.log first, and search the Issues to see if the same problem has already been reported. If not, open a new Issue with the log attached, and I'll do my best to look into it.
 
-Q：可以自己加模组吗？
-A：可以，但可能导致兼容性问题。
+Q: Can I add my own mods?
+A: Yes, but it may cause compatibility issues.
 
-Q：如何更新整合包？
-A：下载新版压缩包后，在启动器中（可能在更新整合包中）导入覆盖即可，注意备份存档。
+Q: How do I update the modpack?
+A: Download the new archive and import it in your launcher (possibly under "Update Modpack"), overwriting the old version. Make sure to back up your saves.
 
-## 许可证
+## License
 
-本整合包采用 [BSD 3-Clause](LICENSE) 授权。其中 Elixir 相关的模组搭配、配置文件、材质包及其他由 Elixir 提供的内容，版权归 Elixir 原作者 Firebolt360 所有，遵循其原始 [BSD-3-Clause](LICENSE-Elixir)。
+This modpack is licensed under [BSD 3-Clause](LICENSE). The Elixir-related mod selection, configuration files, resource packs, and other content provided by Elixir are copyright of their original author Firebolt360, under their original [BSD-3-Clause](LICENSE-Elixir).
 
-整合包中包含的第三方模组遵循各自原作者的许可协议，详见各模组的 `.pw.toml` 文件及模组来源页面。
+Third-party mods included in this modpack follow the licenses of their respective original authors. See each mod's `.pw.toml` file and the mod's source page for details.
 
-*注：Modrinth 只提供了 BSD-3-Clause 的模板，未包含 Elixir 的年份等具体信息。本仓库中的 `LICENSE-Elixir` 是根据该模板和 Elixir 作者信息补全的，仅供参考。如与 Elixir 官方信息有出入，请以官方页面或说明为准。*
+*Note: Modrinth only provides a BSD-3-Clause template and does not include Elixir's specific information such as the year. The `LICENSE-Elixir` in this repository was completed based on that template and the Elixir author's information, and is for reference only. If it differs from Elixir's official information, please refer to the official page or documentation.*
 
-## Star 支持
+## Star Support
 
-如果这个整合包对你有帮助，欢迎点个 Star ⭐ 支持一下！
+If this modpack has been helpful to you, feel free to give it a Star ⭐!
