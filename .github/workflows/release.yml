@@ -54,9 +54,8 @@ jobs:
         if: steps.check.outputs.exists == 'false'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: v${{ steps.ver.outputs.version }}
-          name: v${{ steps.ver.outputs.version }}
+          tag_name: ${{ steps.ver.outputs.version }}
+          name: ${{ steps.ver.outputs.version }}
           generate_release_notes: true
           files: |
             ${{ steps.ver.outputs.version }}.mrpack
-            ${{ steps.ver.outputs.version }}-cf.zip
