@@ -4,7 +4,7 @@
 
 ##  整合包信息
 - Minecraft 版本：1.21.11
-- 整合包版本：
+- 整合包版本：![version](https://img.shields.io/github/v/release/zichenstudio/lifefarm)
 - 模组加载器：Fabric
 - 推荐内存：8GB
 
@@ -14,7 +14,7 @@
 
 不想折腾？直接下载打包好的`.mrpack`，拖入启动器即玩。、
 
-1. 前往[releases](https://github.com/zichenstudio/lifepack/releases)
+1. 前往[releases](https://github.com/zichenstudio/lifepack/releases/latest)
 2. 下载最新版本的`.mrpack`文件
 3. 拖入启动器
 4. 根据需求配置，详见[配置步骤](#配置步骤)
