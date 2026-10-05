@@ -1,8 +1,19 @@
-# LifeFarm
+<div align="center">
 
-[简体中文](README.md)|[English](README-en.md)
+  <figure>
+    <img src="assets/icon-512.png" width="128" alt="生活农场图标">
+    <figcaption><small>Logo © 2026 七十一. All rights reserved.</small></figcaption>
+  </figure>
 
-A Minecraft modpack focused on farming, scenery, and a relaxed retirement-style pace, built on top of [Elixir](https://modrinth.com/modpack/elixir).
+  <h1>LifeFarm</h1>
+
+  <p>A Minecraft modpack focused on farming, scenery, and a relaxed retirement-style pace, built on top of <a href="https://modrinth.com/modpack/elixir">Elixir</a>.</p>
+
+  <p>
+    <a href="README.md">简体中文</a> | <a href="README-en.md">English</a>
+  </p>
+
+</div>
 
 > Lightweight, relaxed, slow-paced
 
@@ -173,6 +184,8 @@ A: Download the new archive and import it in your launcher (possibly under "Upda
 This modpack is licensed under [BSD 3-Clause](LICENSE). The Elixir-related mod selection, configuration files, resource packs, and other content provided by Elixir are copyright of their original author Firebolt360, under their original [BSD-3-Clause](LICENSE-Elixir).
 
 Third-party mods included in this modpack follow the licenses of their respective original authors. See each mod's `.pw.toml` file and the mod's source page for details.
+
+The project logo (`assets/icon-512.png`) is Copyright © 2025 七十一. All rights reserved. It is not covered by the license above.
 
 *Note: Modrinth only provides a BSD-3-Clause template and does not include Elixir's specific information such as the year. The `LICENSE-Elixir` in this repository was completed based on that template and the Elixir author's information, and is for reference only. If it differs from Elixir's official information, please refer to the official page or documentation.*
 

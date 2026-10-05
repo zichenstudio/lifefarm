@@ -1,8 +1,19 @@
-# 生活农场
+<div align="center">
 
-[简体中文](README.md)|[English](README-en.md)
+  <figure>
+    <img src="assets/icon-512.png" width="128" alt="生活农场图标">
+    <figcaption><small>Logo © 2026 七十一. All rights reserved.</small></figcaption>
+  </figure>
 
-一个以种田、风景、养老为主要玩法的 Minecraft 整合包，基于 [Elixir](https://modrinth.com/modpack/elixir) 制作。
+  <h1>生活农场</h1>
+
+  <p>一个以种田、风景、养老为主要玩法的 Minecraft 整合包，基于 <a href="https://modrinth.com/modpack/elixir">Elixir</a> 制作。</p>
+
+  <p>
+    <a href="README.md">简体中文</a> | <a href="README-en.md">English</a>
+  </p>
+
+</div>
 
 > 轻量、养老、慢节奏
 
@@ -173,6 +184,8 @@ A：下载新版压缩包后，在启动器中（可能在更新整合包中）�
 本整合包采用 [BSD 3-Clause](LICENSE) 授权。其中 Elixir 相关的模组搭配、配置文件、材质包及其他由 Elixir 提供的内容，版权归 Elixir 原作者 Firebolt360 所有，遵循其原始 [BSD-3-Clause](LICENSE-Elixir)。
 
 整合包中包含的第三方模组遵循各自原作者的许可协议，详见各模组的 `.pw.toml` 文件及模组来源页面。
+
+项目 Logo（`assets/icon-512.png`）版权归七十一所有（© 2025），保留所有权利，不适用上述许可证。
 
 *注：Modrinth 只提供了 BSD-3-Clause 的模板，未包含 Elixir 的年份等具体信息。本仓库中的 `LICENSE-Elixir` 是根据该模板和 Elixir 作者信息补全的，仅供参考。如与 Elixir 官方信息有出入，请以官方页面或说明为准。*
 
