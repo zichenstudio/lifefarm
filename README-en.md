@@ -1,7 +1,7 @@
 <div align="center">
 
   <figure>
-    <img src="assets/icon-512.png" width="128" alt="生活农场图标">
+    <img src="assets/icon-512.png" width="128" alt="Life Farm Icon"><br>
     <figcaption><small>Logo © 2026 七十一. All rights reserved.</small></figcaption>
   </figure>
 
