@@ -185,7 +185,7 @@ This modpack is licensed under [BSD 3-Clause](LICENSE). The Elixir-related mod s
 
 Third-party mods included in this modpack follow the licenses of their respective original authors. See each mod's `.pw.toml` file and the mod's source page for details.
 
-The project logo (`assets/icon-512.png`) is Copyright © 2025 七十一. All rights reserved. It is not covered by the license above.
+The project logo (`assets/icon-512.png`) is Copyright © 2026 七十一. All rights reserved. It is not covered by the license above.
 
 *Note: Modrinth only provides a BSD-3-Clause template and does not include Elixir's specific information such as the year. The `LICENSE-Elixir` in this repository was completed based on that template and the Elixir author's information, and is for reference only. If it differs from Elixir's official information, please refer to the official page or documentation.*
 
